@@ -1,0 +1,2 @@
+# Promptology
+Useful ChatGPT Prompts
